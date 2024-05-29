@@ -34,7 +34,8 @@ Digital Creator: I love bringing ideas to life through code and design.
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MosbyLeia=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MosbyLeia&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ### Get in touch
 📫 Feel free to reach out to me via email or connect with me on LinkedIn.
