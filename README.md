@@ -14,7 +14,7 @@ Digital Creator: I love bringing ideas to life through code and design.
 ## Technologies I Work With
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
@@ -29,6 +29,7 @@ Digital Creator: I love bringing ideas to life through code and design.
   <img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" title="Blazor" alt="Blazor" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/razor/razor-plain.svg" title="Razor" alt="Razor" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sql/sql-original.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
+  https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg
   <img src="https://github.com/devicons/devicon/blob/master/icons/sharepoint/sharepoint-original.svg" title="SharePoint" alt="SharePoint" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/infopath/infopath-original.svg" title="InfoPath" alt="InfoPath" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tfs/tfs-plain.svg" title="TFS" alt="TFS" width="40" height="40"/>&nbsp;
