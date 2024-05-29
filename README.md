@@ -45,7 +45,7 @@ Digital Creator: I love bringing ideas to life through code and design.
 [![trophy](https://github-profile-trophy.vercel.app/?username=MosbyLeia&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div align="center">
-<br><p align="centre"><b>Contador de Visitantes</b></p>  
+<br><p align="centre"><b>Visitors</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{mosbyleia}/count.svg" /></p> 
 <br></div>
 
