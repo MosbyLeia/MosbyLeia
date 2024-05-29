@@ -1,4 +1,13 @@
-https://www.canva.com/design/DAGGoXBSQ-w/dUSljDAaWJhRLzqPx7rP9A/watch?utm_content=DAGGoXBSQ-w&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
+<p align="center">
+    <a href="http://jrohit.com.np" target="_blank"> 
+     
+        <img src="https://www.canva.com/design/DAGGoXBSQ-w/dUSljDAaWJhRLzqPx7rP9A/watch?utm_content=DAGGoXBSQ-w&utm_campaign=designshare&utm_medium=link&utm_source=editor" width="120" height="120" alt="Description of the image">
+        <img src="https://github.com/OracleBrain/OracleBrain/blob/main/wth-smile.gif?raw=true" width="120" height="120" alt="Description of the image">
+     
+    </a>
+</p>
+
 
 👋 Welcome to My GitHub Profile!
 
