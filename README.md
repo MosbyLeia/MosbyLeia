@@ -32,8 +32,9 @@ Digital Creator: I love bringing ideas to life through code and design.
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 </div>
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MosbyLeia=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Get in touch
 📫 Feel free to reach out to me via email or connect with me on LinkedIn.
