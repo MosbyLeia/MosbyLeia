@@ -1,3 +1,8 @@
+<p align="center">
+   
+        <img src="https://github.com/OracleBrain/OracleBrain/blob/main/wth-smile.gif?raw=true" width="120" height="120" alt="Description of the image">
+    </a>
+</p>
 
 <p align="center">
 <img alt="GIF" height="190" width="600" src="./blob/main/Banner.gif?raw=true"/>
