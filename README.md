@@ -36,8 +36,8 @@ Digital Creator: I love bringing ideas to life through code and design.
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-# Get in Touch
+### Get in Touch
 📫 Feel free to reach out to me via email or connect with me on LinkedIn.
 
-# Let's Collaborate
+### Let's Collaborate
 I'm always open to collaboration and new projects. If you have any exciting ideas or opportunities, let's chat!
