@@ -1,3 +1,6 @@
+![Descripción del GIF](.https://www.canva.com/design/DAGGoXBSQ-w/foEGPI3DwZwqEzPhwJKALg/edit)
+
+
 <p align="center">
 <img alt="GIF" height="190" width="600" src="https://www.canva.com/design/DAGGoXBSQ-w/16JvFEeiaMpVI_RmDh-Ulg/watch"/>
 </p>
