@@ -1,6 +1,6 @@
 # MosbyLeia
 
-👋 <u>Welcome to My GitHub Profile!</u>
+👋 Welcome to My GitHub Profile!
 
 I'm MW, a passionate developer and lawyer with a focus on innovation and technology. I'm based in Argentina 🇦🇷 and proficient in English, Spanish, and Portuguese.
 With a background in web and mobile app development, as well as expertise in computer law, I'm dedicated to leveraging technology to drive positive change and solve real-world problems.
