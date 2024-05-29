@@ -1,4 +1,6 @@
+<p align="center">
  <img height="180em" src="https://github.com/MosbyLeia/MosbyLeia/blob/main/Banner.gif" alt="banner">
+</p>
         
 👋 Welcome to My GitHub Profile!
 
