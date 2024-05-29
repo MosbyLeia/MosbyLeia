@@ -1,15 +1,4 @@
 
-<p align="center">
-    <a href="http://jrohit.com.np" target="_blank"> 
-     
-        https://www.canva.com/design/DAGGoXBSQ-w/dUSljDAaWJhRLzqPx7rP9A/watch?utm_content=DAGGoXBSQ-w&utm_campaign=designshare&utm_medium=link&utm_source=editor
-        <img src="https://www.canva.com/design/DAGGoXBSQ-w/dUSljDAaWJhRLzqPx7rP9A/watch?utm_content=DAGGoXBSQ-w&utm_campaign=designshare&utm_medium=link&utm_source=editor">
-        
-     
-    </a>
-</p>
-
-
 👋 Welcome to My GitHub Profile!
 
 I'm MW, a passionate developer and lawyer with a focus on innovation and technology. I'm based in Argentina 🇦🇷 and proficient in English, Spanish, and Portuguese.
