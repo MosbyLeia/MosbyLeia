@@ -1,16 +1,12 @@
- <img src="https://github.com/MosbyLeia/MosbyLeia/blob/main/Banner.gif" alt="Descripción del GIF">
-        <img src="https://github.com/OracleBrain/OracleBrain/blob/main/wth-smile.gif" width="120" height="120" alt="Description of the image">
-
-https://github.com/MosbyLeia/MosbyLeia/blob/main/Banner.gif
-
-
+ <img height="180em" src="https://github.com/MosbyLeia/MosbyLeia/blob/main/Banner.gif" alt="banner">
+        
 👋 Welcome to My GitHub Profile!
 
 I'm MW, a passionate developer and lawyer with a focus on innovation and technology. I'm based in Argentina 🇦🇷 and proficient in English, Spanish, and Portuguese.
 With a background in web and mobile app development, as well as expertise in computer law, I'm dedicated to leveraging technology to drive positive change and solve real-world problems.
 
  <div align="center">
-  <a href="https://github.com/Rodrigo-Cn"> 
+  <a href="https://github.com/MosbyLeia"> 
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mosbyleia&show_icons=true&theme=algolia"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosbyleia&layout=compact&langs_count=7&theme=algolia" alt="Top Langs"/>
 </div>
