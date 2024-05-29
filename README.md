@@ -2,7 +2,7 @@
  <img width="210px" src="https://github.com/MosbyLeia/MosbyLeia/blob/main/Banner.gif" alt="banner">
 </p>
         
-👋 Welcome to My GitHub Profile!
+## 👋 Welcome to My GitHub Profile!
 
 I'm MW, a passionate developer and lawyer with a focus on innovation and technology. I'm based in Argentina 🇦🇷 and proficient in English, Spanish, and Portuguese.
 With a background in web and mobile app development, as well as expertise in computer law, I'm dedicated to leveraging technology to drive positive change and solve real-world problems.
@@ -12,6 +12,7 @@ With a background in web and mobile app development, as well as expertise in com
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mosbyleia&show_icons=true&theme=algolia"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosbyleia&layout=compact&langs_count=7&theme=algolia" alt="Top Langs"/>
 </div>
+   
 ## 🙋‍♀️ What I do
 
 Web & Mobile Development: Building responsive and user-friendly web and mobile applications.
@@ -49,8 +50,8 @@ Digital Creator: I love bringing ideas to life through code and design.
 <br></div>
 
 
-### Get in touch
-📫 Feel free to reach out to me via email or connect with me on LinkedIn.
+### 📫 Get in touch
+Feel free to reach out to me via email or connect with me on LinkedIn.
 
-### Let's collaborate!
+### 🙌 Let's collaborate!
 I'm always open to collaboration and new projects. If you have any exciting ideas or opportunities, let's chat!
