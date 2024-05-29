@@ -5,6 +5,11 @@
 I'm MW, a passionate developer and lawyer with a focus on innovation and technology. I'm based in Argentina 🇦🇷 and proficient in English, Spanish, and Portuguese.
 With a background in web and mobile app development, as well as expertise in computer law, I'm dedicated to leveraging technology to drive positive change and solve real-world problems.
 
+ <div align="center">
+  <a href="https://github.com/Rodrigo-Cn"> 
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mosbyleia&show_icons=true&theme=algolia"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosbyleia&layout=compact&langs_count=7&theme=algolia" alt="Top Langs"/>
+</div>
 ## 🙋‍♀️ What I do
 
 Web & Mobile Development: Building responsive and user-friendly web and mobile applications.
@@ -35,6 +40,11 @@ Digital Creator: I love bringing ideas to life through code and design.
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MosbyLeia&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+<div align="center">
+<br><p align="centre"><b>Contador de Visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{mosbyleia}/count.svg" /></p> 
+<br></div>
 
 
 ### Get in touch
