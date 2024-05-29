@@ -1,6 +1,6 @@
 
 <p align="center">
-<img alt="GIF" height="190" width="600" src="/blob/main/Banner.gif"/>
+<img alt="GIF" height="190" width="600" src="./blob/main/Banner.gif?raw=true"/>
 </p>
 
 👋 Welcome to My GitHub Profile!
