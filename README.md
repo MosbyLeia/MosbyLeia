@@ -1,5 +1,5 @@
 <p align="center">
- <img height="190em" width="380em" src="https://github.com/MosbyLeia/MosbyLeia/blob/main/Banner.gif" alt="banner">
+ <img width="480em" src="https://github.com/MosbyLeia/MosbyLeia/blob/main/Banner.gif" alt="banner">
 </p>
         
 👋 Welcome to My GitHub Profile!
