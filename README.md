@@ -2,14 +2,13 @@
 
 Welcome to My GitHub Profile! 👋
 
-I'm MW, a passionate developer and lawyer with a focus on innovation and technology. I'm based in Argentina https://www.countryflags.io/ar/flat/64.png and proficient in English ![🇺🇸](https://www.countryflags.io/us/flat/64.png), Spanish ![🇪🇸](https://www.countryflags.io/es/flat/64.png), and Portuguese ![🇧🇷](https://www.countryflags.io/br/flat/64.png).
-
+I'm MW, a passionate developer and lawyer with a focus on innovation and technology. I'm based in Argentina https://www.countryflags.io/ar/flat/64.png and proficient in English, Spanish, and Portuguese.
 
 With a background in web and mobile app development, as well as expertise in computer law, I'm dedicated to leveraging technology to drive positive change and solve real-world problems.
 
-What I Do
+## What I Do
 
-Web & Mobile Development: Building responsive and user-friendly web and mobile applications is my forte.
+Web & Mobile Development: Building responsive and user-friendly web and mobile applications.
 Digital Creator: I love bringing ideas to life through code and design.
 
 ## Technologies I Work With
@@ -37,8 +36,8 @@ Digital Creator: I love bringing ideas to life through code and design.
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-Get in Touch
+# Get in Touch
 📫 Feel free to reach out to me via email or connect with me on LinkedIn.
 
-Let's Collaborate
+# Let's Collaborate
 I'm always open to collaboration and new projects. If you have any exciting ideas or opportunities, let's chat!
