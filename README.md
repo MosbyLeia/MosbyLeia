@@ -1,4 +1,4 @@
-![Descripción del GIF](.https://www.canva.com/design/DAGGoXBSQ-w/foEGPI3DwZwqEzPhwJKALg/edit)
+![Descripción del GIF](https://www.canva.com/design/DAGGoXBSQ-w/dUSljDAaWJhRLzqPx7rP9A/watch?utm_content=DAGGoXBSQ-w&utm_campaign=designshare&utm_medium=link&utm_source=editor))
 
 
 <p align="center">
