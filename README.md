@@ -2,7 +2,7 @@
 
 Welcome to My GitHub Profile! 👋
 
-I'm MW, a passionate developer and lawyer with a focus on innovation and technology. I'm based in Argentina and proficient in English, Spanish, and Portuguese.
+I'm MW, a passionate developer and lawyer with a focus on innovation and technology. I'm based in Argentina 🇦🇷 and proficient in English :flag , Spanish : , and Portuguese 🇧🇷 .
 With a background in web and mobile app development, as well as expertise in computer law, I'm dedicated to leveraging technology to drive positive change and solve real-world problems.
 
 ## What I do
@@ -10,7 +10,7 @@ With a background in web and mobile app development, as well as expertise in com
 Web & Mobile Development: Building responsive and user-friendly web and mobile applications.
 Digital Creator: I love bringing ideas to life through code and design.
 
-## Skills and technologies I work with
+## : Skills and technologies I work with
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
