@@ -1,8 +1,6 @@
 <p align="center">
-<img alt="GIF" height="190" width="600" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3RtcmY1M3U3OTNld2x1dHg1cmJ3dDRhOWNkcWh0MzNlaGQxZDFwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mAteyJtpmR9Yq4X2xO/giphy-downsized-large.gif"/>
+<img alt="GIF" height="190" width="600" src="./blob/main/giphy.mp4.gif"/>
 </p>
-
-![Descripción del GIF](./blob/main/giphy.mp4.gif)
 
 
 👋 Welcome to My GitHub Profile!
