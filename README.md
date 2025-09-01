@@ -38,29 +38,12 @@ Digital Creator: I love bringing ideas to life through code and design.
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure DevOps" alt="Azure DevOps" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
- <!-- SharePoint Online -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Microsoft_Office_SharePoint_%282019%E2%80%93present%29.svg"
      title="SharePoint Online" alt="SharePoint Online" width="40" height="40" />&nbsp;
-
-<!-- Power Automate -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Microsoft_Power_Automate.svg"
      title="Power Automate" alt="Power Automate" width="40" height="40" />&nbsp;
-
-<!-- Power Apps -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Powerapps-logo.svg"
      title="Power Apps" alt="Power Apps" width="40" height="40" />&nbsp;
-
-<!-- Microsoft Teams -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg"
-     title="Microsoft Teams" alt="Microsoft Teams" width="40" height="40" />&nbsp;
-
-<!-- SPFx (badge simple en SVG, no logo oficial) -->
-<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 64 64" role="img" aria-label="SPFx">
-  <rect x="4" y="4" width="56" height="56" rx="12" ry="12" fill="#038387"/>
-  <text x="32" y="38" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif"
-        font-size="22" fill="#ffffff" font-weight="700">SPFx</text>
-</svg>
-
 </div>
 
 ## 🏆 GitHub Trophies
